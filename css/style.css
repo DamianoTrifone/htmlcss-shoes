@@ -24,6 +24,22 @@
     background-color: #FFFF00;
 }
 
+.scritte{
+    text-transform: uppercase;
+    font-family: 'Rubik Mono One', sans-serif;
+    font-size: 20px;
+    color: yellow;
+}
+
+#scritta-verde{
+    text-transform: uppercase;
+    font-family: 'Rubik Mono One', sans-serif;
+    font-size: 20px;
+    color: green;
+}
+
+}
+
 /* section{
     position: absolute;
     margin: auto;
