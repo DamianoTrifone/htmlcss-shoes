@@ -2,7 +2,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    width: 80%;
+    width: 90%;
     margin: auto;
 }
 
@@ -10,6 +10,19 @@
     background-position: relative;
     width: 80%;
     height: 100%;
+}
+
+#selezione li{
+    display: inline;
+    list-style: none;
+}
+
+.bottoms li{
+    position: fixed;
+    list-style: none;
+    display: inline;
+    border-radius: 4px;
+    text-decoration: none;
 }
 
 #blu{
@@ -38,16 +51,6 @@
     color: green;
 }
 
-}
-
-/* section{
-    position: absolute;
-    margin: auto;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;   
-} */
 
 .foto{
     border-left: 350px;
